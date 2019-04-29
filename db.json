@@ -2,18 +2,21 @@
   "product": {
     "id": 1,
     "name": "product name",
-    "description": "product description"
+    "description": "product description",
+    "price":120.00
   },
   "products": [
     {
       "id": 1,
       "name": "product name",
-      "description": "product description"
+      "description": "product description",
+      "price":120.00
     },
     {
       "id": 2,
-      "name": "product name",
-      "description": "product description"
+      "name": "product name 2",
+      "description": "product description 2",
+      "price":125.00
     }
   ]
 }
